@@ -2,7 +2,6 @@ import Footer from "./components/Footer";
 import Men from "./components/Men";
 import { BrowserRouter, Routes, Route} from "react-router-dom";
 import Navbar from "./components/Navbar";
-import Home from "./components/Home";
 import Profile from "./components/Profile";
 
 function App() {
