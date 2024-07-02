@@ -51,34 +51,34 @@ const Footer = () => {
           <h4>CUSTOMER POLICIES</h4>
           <ul>
             <li>
-              <a>Contact Us</a>
+              <a href="#">Contact Us</a>
             </li>
             <li>
-              <a>FAQ</a>
+              <a href="#">FAQ</a>
             </li>
             <li>
-              <a>T&C</a>
+              <a href="#">T&C</a>
             </li>
             <li>
-              <a>Terms Of Use</a>
+              <a href="#">Terms Of Use</a>
             </li>
             <li>
-              <a>Track Orders</a>
+              <a href="#">Track Orders</a>
             </li>
             <li>
-              <a>Shipping</a>
+              <a href="#">Shipping</a>
             </li>
             <li>
-              <a>Cancellation</a>
+              <a href="#">Cancellation</a>
             </li>
             <li>
-              <a>Returns</a>
+              <a href="#">Returns</a>
             </li>
             <li>
-              <a>Privacy policy</a>
+              <a href="#">Privacy policy</a>
             </li>
             <li>
-              <a>Grievance Officer</a>
+              <a href="#">Grievance Officer</a>
             </li>
           </ul>
         </div>
@@ -87,13 +87,13 @@ const Footer = () => {
           <h4>EXPERIENCE MYNTRA APP ON MOBILE</h4>
           <ul>
             <li>
-              <a>Keep in touch</a>
+              <a href="#">Keep in touch</a>
             </li>
             <li>
-              <a>100% ORIGINAL guarantee for all products at myntra.com</a>
+              <a href="#">100% ORIGINAL guarantee for all products at myntra.com</a>
             </li>
             <li>
-              <a>Return within 14 days of receiving your order</a>
+              <a href="#">Return within 14 days of receiving your order</a>
             </li>
           </ul>
         </div>
