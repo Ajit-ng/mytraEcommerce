@@ -1,11 +1,11 @@
 import React from 'react'
-
+import ProductList from './data.jsx'
 
 const Home = () => {
   return (
     <div>
       <div>
-        <h1></h1>
+      < ProductList />
       </div>
     </div>
   )
